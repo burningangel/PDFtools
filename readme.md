@@ -3,8 +3,10 @@
 当前工具基于mupdf实现了PDF文件的切分、合并、PDF转图片、图片转PDF等功能。
 #### 安装
 本工具提供了windows和linux（基于Ubuntu）的使用包，可以通过下方链接进行下载。
-[windows]()
-[linux]()
+
+[windows](https://github.com/burningangel/PDFtools/releases/download/v1.0.0/PDFtools_win32_v1.0.0.zip)
+[linux](https://github.com/burningangel/PDFtools/releases/download/v1.0.0/PDFtools_linux_v1.0.0.zip)
+
 或者也可以通过源码进行编译安装
 ```
 git clone https://github.com/burningangel/PDFtools.git
